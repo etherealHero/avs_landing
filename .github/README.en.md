@@ -41,7 +41,8 @@ index.html
 - [x] Use BEM methodology
 - [x] Integrate Materialize
 
-> [!TIP] > [Markdown UI kit][md_ui_kit] for README.md
+> [!TIP]
+> [Markdown UI kit][md_ui_kit] for README.md
 
 ## 📜 License
 
