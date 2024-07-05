@@ -48,8 +48,6 @@ index.html
 
 Этот проект лицензирован на условиях лицензии MIT. Подробности смотрите в [LICENSE][license].
 
-[Вверх ↑][top]
-
 <!-- navigation -->
 
 [home_ru]: README.md
@@ -57,7 +55,6 @@ index.html
 [license]: /LICENSE
 [preview]: https://etherealhero.github.io/avs_landing/
 [md_ui_kit]: https://gist.github.com/etherealHero/ffe9de043f3c2639e864b4fddec8e9e4
-[top]: #
 [link0]: https://materializecss.com/
 [link1]: https://ru.bem.info/
 [link2]: #

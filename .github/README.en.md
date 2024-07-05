@@ -47,8 +47,6 @@ index.html
 
 This project is licensed under the MIT License. See [LICENSE](/LICENSE) for details.
 
-[Go top ↑][top]
-
 <!-- navigation -->
 
 [home_ru]: README.md
@@ -56,7 +54,6 @@ This project is licensed under the MIT License. See [LICENSE](/LICENSE) for deta
 [license]: /LICENSE
 [preview]: https://etherealhero.github.io/avs_landing/
 [md_ui_kit]: https://gist.github.com/etherealHero/ffe9de043f3c2639e864b4fddec8e9e4
-[top]: #
 [link0]: https://materializecss.com/
 [link1]: https://ru.bem.info/
 [link2]: #
